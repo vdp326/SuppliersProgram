@@ -1,0 +1,19 @@
+c:\visual_studio14\VS_Projects\supplinq1\supplinq1\bin\Debug\supplinq1.exe.config
+c:\visual_studio14\VS_Projects\supplinq1\supplinq1\bin\Debug\supplinq1.exe
+c:\visual_studio14\VS_Projects\supplinq1\supplinq1\bin\Debug\supplinq1.pdb
+c:\visual_studio14\VS_Projects\supplinq1\supplinq1\obj\Debug\supplinq1.csprojResolveAssemblyReference.cache
+c:\visual_studio14\VS_Projects\supplinq1\supplinq1\obj\Debug\supplinq1.exe
+c:\visual_studio14\VS_Projects\supplinq1\supplinq1\obj\Debug\supplinq1.pdb
+D:\Upwork\28_USA_Vu_Pham.Net\Project4\20190723_supplinq1\supplinq1\bin\Debug\supplinq1.exe.config
+D:\Upwork\28_USA_Vu_Pham.Net\Project4\20190723_supplinq1\supplinq1\obj\Debug\supplinq1.exe
+D:\Upwork\28_USA_Vu_Pham.Net\Project4\20190723_supplinq1\supplinq1\obj\Debug\supplinq1.pdb
+D:\Upwork\28_USA_Vu_Pham.Net\Project4\20190723_supplinq1\supplinq1\bin\Debug\supplinq1.exe
+D:\Upwork\28_USA_Vu_Pham.Net\Project4\20190723_supplinq1\supplinq1\bin\Debug\supplinq1.pdb
+D:\Upwork\28_USA_Vu_Pham.Net\Project4\20190723_supplinq1\supplinq1\obj\Debug\supplinq1.csprojResolveAssemblyReference.cache
+C:\Users\vupha\Desktop\UIS\Summer 2019\CSC 470 C# Programming and Dot Net Framework\Projects\20190723_supplinq1\20190723_supplinq1\supplinq1\bin\Debug\supplinq1.exe.config
+C:\Users\vupha\Desktop\UIS\Summer 2019\CSC 470 C# Programming and Dot Net Framework\Projects\20190723_supplinq1\20190723_supplinq1\supplinq1\bin\Debug\supplinq1.exe
+C:\Users\vupha\Desktop\UIS\Summer 2019\CSC 470 C# Programming and Dot Net Framework\Projects\20190723_supplinq1\20190723_supplinq1\supplinq1\bin\Debug\supplinq1.pdb
+C:\Users\vupha\Desktop\UIS\Summer 2019\CSC 470 C# Programming and Dot Net Framework\Projects\20190723_supplinq1\20190723_supplinq1\supplinq1\obj\Debug\supplinq1.csprojAssemblyReference.cache
+C:\Users\vupha\Desktop\UIS\Summer 2019\CSC 470 C# Programming and Dot Net Framework\Projects\20190723_supplinq1\20190723_supplinq1\supplinq1\obj\Debug\supplinq1.csproj.CoreCompileInputs.cache
+C:\Users\vupha\Desktop\UIS\Summer 2019\CSC 470 C# Programming and Dot Net Framework\Projects\20190723_supplinq1\20190723_supplinq1\supplinq1\obj\Debug\supplinq1.exe
+C:\Users\vupha\Desktop\UIS\Summer 2019\CSC 470 C# Programming and Dot Net Framework\Projects\20190723_supplinq1\20190723_supplinq1\supplinq1\obj\Debug\supplinq1.pdb
